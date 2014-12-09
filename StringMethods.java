@@ -13,7 +13,7 @@ public class StringMethods {
 	/**
 	 * 
 	 * 
-	 * @return 
+	 * @return whether the entire string is a palendrome.
 	 */
 	public boolean palendrome() {
 		
@@ -27,8 +27,14 @@ public class StringMethods {
 		
 	}
 	
+	private int helperPR(char[] a) {
+		
+	}
+	
 	/**
-	 * 
+	 * Simple method that converts the backing string into a character
+	 * array and then prints the result of feeding that array into the 
+	 * helper method helperPR
 	 * 
 	 */
 	public void printRecurs() {
