@@ -5,23 +5,69 @@ public class StringMethods {
 	/**
 	  *
 	  * @param line String to use and manipulate
+	  */
 	public StringMethods(String line) {
 		this.line = line;
 	}
 	
-	public palendrome
+	/**
+	 * 
+	 * 
+	 * @return 
+	 */
+	public boolean palendrome() {
+		
+	}
+	/**
+	 * 
+	 * 
+	 * @return
+	 */
+	public String longestPalendromeWithin () {
+		
+	}
 	
-	public longestPalendromeWithin
+	/**
+	 * 
+	 * 
+	 */
+	public void printRecurs() {
+		
+	}
 	
-	public printRecurs
+	/**
+	 * 
+	 * 
+	 * 
+	 */
+	public void printInterative() {
+		
+	}
+	/**
+	 * 
+	 * 
+	 * @param
+	 */
+	public void removeChar(char a) {
+		
+	}
 	
-	public printInterative
+	/**
+	 * 
+	 * @param location 
+	 */
+	public void removeLocation(int loc) {
+		
+	}
 	
-	public removeChar
-	
-	public removeLocation
-	
-	public void print
+	/**
+	 * 
+	 * Simple method which prints the backing string of the 
+	 * 
+	 */
+	public void print() {
+		System.out.println(line);
+	}
 	
 	/**
 	  *
